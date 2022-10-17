@@ -1,5 +1,5 @@
 # Car Sales Exploratory Data Analysis with SQL Server
-## Utilzed the RFM marketing technique to quantitatively rank and group customers based on the recency, frequency and monetary total of their transactions to identify the best customers
+## I utilized the RFM marketing technique to quantitatively rank and group customers based on the recency, frequency and monetary total of their transactions to identify the best customers
 ### Answered the following questions
  - Total revenue by Product Line, Month, Country?
  - Who is the best customer using the RFM technique?
