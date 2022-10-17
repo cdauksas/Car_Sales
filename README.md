@@ -27,11 +27,6 @@
 
 - Only the first 5 months are captured in the year 2005, this can explain why total sales is lower compared to other years.
 
-### Next we will look at at total sales by Deal Size
-
-![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/SalesDealSize.png)
-
-
 ### What was the best month for sales in a specific year? How much was earned that month?
 
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/SalesMonth.png)
