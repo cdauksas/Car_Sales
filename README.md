@@ -5,7 +5,7 @@
  - Who is the best customer using the RFM technique?
  - What products are frequently sold together?
  
- ## Here is an overview of the data. It contains 2,823 rows of sales data consiting of order numbers, quantities, dates, sales, and products.
+ ## Here is an overview of the data. It contains 2,823 rows consiting of order numbers, quantities, dates, sales, and products.
  
  ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/Overview.png)
  
