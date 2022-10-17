@@ -1,6 +1,6 @@
 # Car Sales Exploratory Data Analysis with SQL Server
 ## Utilzed the RFM marketing technique to quantitatively rank and group customers based on the recency, frequency and monetary total of their transactions to identify the best customers
-### Answered the following Questions
+### Answered the following questions
  - Total revenue by Product Line, Month, Country?
  - Who is the best customer using the RFM technique?
  - What products are frequently sold together?
@@ -21,11 +21,11 @@
 
  ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/SalesYear.png)
  
-- 2005 seems to be small. Lets look at the total months that was included in 2005
+- 2005 seems to be small. Lets look at all of the months that were included in 2005:
 
 ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/Sales2005.png)
 
-- Only the first 5 months of are captured in year 2005, this can explain why total sales is lower compared to other years.
+- Only the first 5 months are captured in the year 2005, this can explain why total sales is lower compared to other years.
 
 ### Next we will look at at total sales by Deal Size
 
