@@ -1,11 +1,11 @@
 # Car Sales Exploratory Data Analysis with SQL Server
 ## Utilzed the RFM marketing technique to quantitatively rank and group customers based on the recency, frequency and monetary total of their transactions to identify the best customers
 ### Answered the following Questions
- - What products are frequently sold together?
- - Who is the best customer using the RFM technique?
  - Total revenue by Product Line, Month, Country?
+ - Who is the best customer using the RFM technique?
+ - What products are frequently sold together?
  
- ### I began by inspecting the data. Here is an overview of the data. It contains 2,823 rows of sales data consiting of order numbers, quantities, dates, sales, and products.
+ ### Here is an overview of the data. It contains 2,823 rows of sales data consiting of order numbers, quantities, dates, sales, and products.
  
  ![](https://github.com/cdauksas/PortfolioProjects/blob/main/images/Overview.png)
  
